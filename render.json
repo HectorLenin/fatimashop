@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://4wkfykg8252-live.yw.app/:splat",
+      "permanent": true
+    }
+  ]
+}
